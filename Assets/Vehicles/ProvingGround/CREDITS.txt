@@ -1,0 +1,10 @@
+Proving ground textures and sky: Poly Haven (https://polyhaven.com), CC0 (public domain).
+No attribution is required; listed here so the sources can be found again.
+
+- asphalt_track       https://polyhaven.com/a/asphalt_track       (Concept Car pad; Boxcar test course roads)
+- concrete_floor_01   https://polyhaven.com/a/concrete_floor_01   (Boxcar test course ramps, side slope and wall)
+- rocky_terrain_02    https://polyhaven.com/a/rocky_terrain_02    (field)
+- kloofendal_48d_partly_cloudy_puresky (2k HDR)
+                      https://polyhaven.com/a/kloofendal_48d_partly_cloudy_puresky  (sky)
+
+The field, pad and paint lines here, and the Boxcar test course in ../TestCourse/Meshes, are generated meshes.

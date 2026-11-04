@@ -1,0 +1,33 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# IDE and editor files
+.vs/
+.idea/
+.vscode/
+*.csproj
+*.sln
+*.slnx
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svclog
+*.pdb
+
+# Unity generated files
+*.unityproj
+*.suo
+*.tmp
+*.pidb.meta
+*.pdb.meta
+sysinfo.txt
+
+# OS files
+.DS_Store
+Thumbs.db
